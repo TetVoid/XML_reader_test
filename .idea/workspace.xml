@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af268f71-6c83-49a5-8d19-cfaafe44c81a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/laba 2/META-INF/laba 2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XMLcreater/XMLcreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XMLcreater/XMLcreater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/PatientReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/PatientReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parser/SAXPars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/SAXPars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/DeleteMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/DeleteMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/FindMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/FindMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/SeeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SeeTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/listeners/AddButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/listeners/AddButtonListener.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YZXDXnisGdPcQZjsfSd84b6PKv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/userlib/org.eclipse.swt.win32.win32.x86_64-3.113.0.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainWindow" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.MainWindow" />
+      <module name="laba 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="View" />
+      <module name="laba 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af268f71-6c83-49a5-8d19-cfaafe44c81a" name="Default Changelist" comment="" />
+      <created>1583150970180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583150970180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587977428384">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="194" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1587977428384" />
+    <state x="543" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1584618058216">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="543" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1474.864@0.0.1474.864" timestamp="1584618058216" />
+    <state x="535" y="317" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585130763591">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="535" y="317" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1474.864@0.0.1474.864" timestamp="1585130763591" />
+    <state x="468" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1584533903265">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="468" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1474.864@0.0.1474.864" timestamp="1584533903265" />
+    <state x="493" y="135" key="#xdebugger.evaluate" timestamp="1584342159804">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="493" y="135" key="#xdebugger.evaluate/0.0.1474.864@0.0.1474.864" timestamp="1584342159804" />
+    <state x="393" y="27" key="CommitChangelistDialog2" timestamp="1584328263592">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="393" y="27" key="CommitChangelistDialog2/0.0.1474.864@0.0.1474.864" timestamp="1584328263592" />
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1583151034514">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1583151034514" />
+    <state width="1431" height="196" key="GridCell.Tab.0.bottom" timestamp="1588848345429">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="196" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
+    <state width="1431" height="196" key="GridCell.Tab.0.center" timestamp="1588848345429">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="196" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
+    <state width="1431" height="196" key="GridCell.Tab.0.left" timestamp="1588848345429">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="196" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
+    <state width="1431" height="196" key="GridCell.Tab.0.right" timestamp="1588848345429">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="196" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
+    <state width="1431" height="196" key="GridCell.Tab.1.bottom" timestamp="1588848345429">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="196" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
+    <state width="1431" height="196" key="GridCell.Tab.1.center" timestamp="1588848345429">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="196" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
+    <state width="1431" height="196" key="GridCell.Tab.1.left" timestamp="1588848345429">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="196" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
+    <state width="1431" height="196" key="GridCell.Tab.1.right" timestamp="1588848345429">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="196" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
+    <state x="218" y="7" key="SettingsEditor" timestamp="1588761942628">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="218" y="7" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1588761942628" />
+    <state x="444" y="61" key="refactoring.ChangeSignatureDialog" timestamp="1584611296582">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="444" y="61" key="refactoring.ChangeSignatureDialog/0.0.1474.864@0.0.1474.864" timestamp="1584611296582" />
+    <state x="394" y="197" key="run.anything.popup" timestamp="1584356330221">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="394" y="197" key="run.anything.popup/0.0.1474.864@0.0.1474.864" timestamp="1584356330221" />
+    <state x="704" y="199" width="672" height="678" key="search.everywhere.popup" timestamp="1584445290182">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="704" y="199" width="672" height="678" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1584445290182" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/view/listeners/OpenButtonListener.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

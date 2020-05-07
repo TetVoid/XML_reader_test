@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<base>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Гулякин</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Шункевич</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Математики</depName>
+        <academRank>Кандидат наук</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>0</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Шункевич</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФРЭ</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>0</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Голенков</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФРЭ</faculty>
+        <depName>Искуственный интелект</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Доктор информационных наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Владимирович</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Математики</depName>
+        <academRank>Кандидат наук</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>0</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>КСИС</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Профессор</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Ольга</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Владимирович</teacherMiddleName>
+        <faculty>КСИС</faculty>
+        <depName>Физики</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Доктор информационных наук</academDegree>
+        <stage>0</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Павловна</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Физики</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Математики</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Ольга</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Павловна</teacherMiddleName>
+        <faculty>КСИС</faculty>
+        <depName>Электронных приборов</depName>
+        <academRank>Кандидат наук</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>600</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Голенков</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Шункевич</teacherSurname>
+        <teacherMiddleName>Владимирович</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Математики</depName>
+        <academRank>Профессор</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>0</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Физики</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>600</stage>
+    </note>
+    <note>
+        <teacherName>Ольга</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Павловна</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Математики</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Аастасия</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Владимирович</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Электронных приборов</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Владимирович</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Физики</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>600</stage>
+    </note>
+    <note>
+        <teacherName>Андрей</teacherName>
+        <teacherSurname>Голенков</teacherSurname>
+        <teacherMiddleName>Францевна</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Физики</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Андрей</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Математики</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Андрей</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Математики</depName>
+        <academRank>Профессор</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>0</stage>
+    </note>
+    <note>
+        <teacherName>Андрей</teacherName>
+        <teacherSurname>Шункевич</teacherSurname>
+        <teacherMiddleName>Павловна</teacherMiddleName>
+        <faculty>КСИС</faculty>
+        <depName>Искуственный интелект</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>КСИС</faculty>
+        <depName>Электронных приборов</depName>
+        <academRank>Профессор</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Францевна</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Электронных приборов</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Доктор информационных наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Аастасия</teacherName>
+        <teacherSurname>Голенков</teacherSurname>
+        <teacherMiddleName>Францевна</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Физики</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Аастасия</teacherName>
+        <teacherSurname>Голенков</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Математики</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Электронных приборов</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Ольга</teacherName>
+        <teacherSurname>Гулякин</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Математики</depName>
+        <academRank>Профессор</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>600</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Шункевич</teacherSurname>
+        <teacherMiddleName>Владимирович</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Электронных приборов</depName>
+        <academRank>Профессор</academRank>
+        <academDegree>Доктор информационных наук</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Францевна</teacherMiddleName>
+        <faculty>ФРЭ</faculty>
+        <depName>Электронных приборов</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Аастасия</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Физики</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Францевна</teacherMiddleName>
+        <faculty>КСИС</faculty>
+        <depName>Физики</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Аастасия</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>ФРЭ</faculty>
+        <depName>Математики</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>600</stage>
+    </note>
+    <note>
+        <teacherName>Андрей</teacherName>
+        <teacherSurname>Гулякин</teacherSurname>
+        <teacherMiddleName>Владимирович</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Шункевич</teacherSurname>
+        <teacherMiddleName>Павловна</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Профессор</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>600</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Шункевич</teacherSurname>
+        <teacherMiddleName>Павловна</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Кандидат наук</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>600</stage>
+    </note>
+    <note>
+        <teacherName>Андрей</teacherName>
+        <teacherSurname>Голенков</teacherSurname>
+        <teacherMiddleName>Владимирович</teacherMiddleName>
+        <faculty>КСИС</faculty>
+        <depName>Физики</depName>
+        <academRank>Профессор</academRank>
+        <academDegree>Доктор информационных наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Гулякин</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Электронных приборов</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Евгений</teacherName>
+        <teacherSurname>Голенков</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Электронных приборов</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Андрей</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Математики</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>КСИС</faculty>
+        <depName>Искуственный интелект</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Доктор информационных наук</academDegree>
+        <stage>600</stage>
+    </note>
+    <note>
+        <teacherName>Андрей</teacherName>
+        <teacherSurname>Шункевич</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Математики</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Голенков</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>ИЭФ</faculty>
+        <depName>Физики</depName>
+        <academRank>Профессор</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Андрей</teacherName>
+        <teacherSurname>Гулякин</teacherSurname>
+        <teacherMiddleName>Владимирович</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Кандидат наук</academRank>
+        <academDegree>Профессор математических наук</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Доцент</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Францевна</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Иностранных языков</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>30</stage>
+    </note>
+    <note>
+        <teacherName>Владимир</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Францевна</teacherMiddleName>
+        <faculty>ФИТУ</faculty>
+        <depName>Математики</depName>
+        <academRank>Бакалавр</academRank>
+        <academDegree>Профессор информационных наук</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Аастасия</teacherName>
+        <teacherSurname>Шадрин</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Физики</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Ольга</teacherName>
+        <teacherSurname>Шункевич</teacherSurname>
+        <teacherMiddleName>Юрьевич</teacherMiddleName>
+        <faculty>ФРЭ</faculty>
+        <depName>Математики</depName>
+        <academRank>Кандидат наук</academRank>
+        <academDegree>Доктор математических наук</academDegree>
+        <stage>365</stage>
+    </note>
+    <note>
+        <teacherName>Аастасия</teacherName>
+        <teacherSurname>Гулякин</teacherSurname>
+        <teacherMiddleName>Павловна</teacherMiddleName>
+        <faculty>ФРЭ</faculty>
+        <depName>Физики</depName>
+        <academRank>Лиценциата</academRank>
+        <academDegree>Доктор информационных наук</academDegree>
+        <stage>1</stage>
+    </note>
+    <note>
+        <teacherName>Аастасия</teacherName>
+        <teacherSurname>Давыденко</teacherSurname>
+        <teacherMiddleName>Алексеевич</teacherMiddleName>
+        <faculty>ФКП</faculty>
+        <depName>Физики</depName>
+        <academRank>Кандидат наук</academRank>
+        <academDegree>Аспирант</academDegree>
+        <stage>600</stage>
+    </note>
+</base>
