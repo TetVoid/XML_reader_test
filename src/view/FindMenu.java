@@ -133,24 +133,28 @@ public class FindMenu {
         tableView.setHeaderVisible(true);
 
         TableColumn column1 = new TableColumn(tableView, SWT.NONE);
-        column1.setText("Teacher surname");
+        column1.setText("Teacher name");
         column1.setWidth(140);
 
         TableColumn column2 = new TableColumn(tableView, SWT.NONE);
-        column2.setText("Teacher middle name");
+        column2.setText("Teacher surname");
         column2.setWidth(140);
 
         TableColumn column3 = new TableColumn(tableView, SWT.NONE);
-        column3.setText("Faculty");
+        column3.setText("Teacher middle name");
         column3.setWidth(140);
 
         TableColumn column4 = new TableColumn(tableView, SWT.NONE);
-        column4.setText("DepartmentsName");
+        column4.setText("Faculty");
         column4.setWidth(140);
 
         TableColumn column5 = new TableColumn(tableView, SWT.NONE);
-        column5.setText("AcademicRank");
-        column5.setWidth(140);
+        column5.setText("DepartmentsName");
+        column5.setWidth(180);
+
+        TableColumn column6 = new TableColumn(tableView, SWT.NONE);
+        column6.setText("AcademicRank");
+        column6.setWidth(140);
 
         TableColumn column7 = new TableColumn(tableView, SWT.NONE);
         column7.setText("Stage");
@@ -158,7 +162,7 @@ public class FindMenu {
 
         TableColumn column8 = new TableColumn(tableView, SWT.NONE);
         column8.setText("AcademicDegree");
-        column8.setWidth(80);
+        column8.setWidth(100);
 
         for(int i=0;i<10;i++)
         {

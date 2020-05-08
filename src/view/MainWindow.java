@@ -92,7 +92,7 @@ public class MainWindow {
 
         TableColumn column5 = new TableColumn(tableView, SWT.NONE);
         column5.setText("DepartmentsName");
-        column5.setWidth(140);
+        column5.setWidth(180);
 
         TableColumn column6 = new TableColumn(tableView, SWT.NONE);
         column6.setText("AcademicRank");
@@ -104,7 +104,7 @@ public class MainWindow {
 
         TableColumn column8 = new TableColumn(tableView, SWT.NONE);
         column8.setText("AcademicDegree");
-        column8.setWidth(80);
+        column8.setWidth(100);
 
 
         for (int i = 0; i < 10; i++) {

@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af268f71-6c83-49a5-8d19-cfaafe44c81a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laba 2/META-INF/laba 2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/laba 2/view/MainWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/XMLcreater/XMLcreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XMLcreater/XMLcreater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/PatientReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/PatientReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parser/SAXPars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parser/SAXPars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/DeleteMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/DeleteMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/FindMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/FindMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MainWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/SeeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SeeTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/listeners/AddButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/listeners/AddButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test3.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,22 +103,22 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1583151034514" />
-    <state width="1431" height="196" key="GridCell.Tab.0.bottom" timestamp="1588848345429">
+    <state width="1431" height="138" key="GridCell.Tab.0.bottom" timestamp="1588938987832">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="196" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
-    <state width="1431" height="196" key="GridCell.Tab.0.center" timestamp="1588848345429">
+    <state width="1431" height="138" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1588938987832" />
+    <state width="1431" height="138" key="GridCell.Tab.0.center" timestamp="1588938987832">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="196" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
-    <state width="1431" height="196" key="GridCell.Tab.0.left" timestamp="1588848345429">
+    <state width="1431" height="138" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1588938987832" />
+    <state width="1431" height="138" key="GridCell.Tab.0.left" timestamp="1588938987832">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="196" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
-    <state width="1431" height="196" key="GridCell.Tab.0.right" timestamp="1588848345429">
+    <state width="1431" height="138" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1588938987832" />
+    <state width="1431" height="138" key="GridCell.Tab.0.right" timestamp="1588938987832">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="196" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1588848345429" />
+    <state width="1431" height="138" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1588938987832" />
     <state width="1431" height="196" key="GridCell.Tab.1.bottom" timestamp="1588848345429">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
