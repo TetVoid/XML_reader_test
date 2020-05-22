@@ -19,9 +19,12 @@ import java.util.List;
 public class FindMenu {
  List<PatientReport> vectorOfAnswers=new ArrayList<>(0);
  List<PatientReport> findVector=null;
-  PageController pageControl=new PageController();
+
+  PageController pageControl=null;
     public void setWorkSpace(List<PatientReport> base, Display display)
     {
+        Controller findPageController=new Controller();
+          pageControl=new PageController(findPageController);
        Controller findController=new Controller();
        findVector=base;
 
@@ -341,7 +344,14 @@ public class FindMenu {
 
 
         SeeTable seeTable=new SeeTable();
-       seeTable.seeTable(tableView,pageControl.getPage(),vectorOfAnswers,pagesLabel);
+
+       findPageController.clear();
+
+       for(int i=0;i<vectorOfAnswers.size();i++)
+       {
+           findPageController.setItemOfTable(vectorOfAnswers.get(i));
+       }
+       seeTable.seeTable(tableView,pageControl,vectorOfAnswers,pagesLabel);
       }
      });
 

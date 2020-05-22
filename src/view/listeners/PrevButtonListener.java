@@ -25,6 +25,6 @@ public class PrevButtonListener extends SelectionAdapter
     public void widgetSelected(SelectionEvent event1) {
             pageControl.prevPage();
             SeeTable view = new SeeTable();
-            view.seeTable(tableView, pageControl.getPage(), controller.getTable(),pagesLabel);
+            view.seeTable(tableView, pageControl, controller.getPageOfTable(pageControl.getPage()),pagesLabel);
     }
 }

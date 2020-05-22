@@ -14,8 +14,8 @@ import org.eclipse.swt.widgets.*;
 
 public class MainWindow {
     public static void main(String[] args) {
-        PageController pageControl = new PageController();
         Controller controller = new Controller();
+        PageController pageControl = new PageController(controller);
         Shell shell;
         Display display = new Display();
         shell = new Shell(display);

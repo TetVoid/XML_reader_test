@@ -44,6 +44,6 @@ public class AddButtonListener extends SelectionAdapter
         controller.setItemOfTable(newItem);
 
         SeeTable view = new SeeTable();
-        view.seeTable(tableView, pageControl.getPage(), controller.getTable(),pagesLabel);
+        view.seeTable(tableView, pageControl, controller.getPageOfTable(pageControl.getPage()),pagesLabel);
     }
 }

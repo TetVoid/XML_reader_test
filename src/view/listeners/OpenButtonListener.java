@@ -31,6 +31,6 @@ public class OpenButtonListener extends SelectionAdapter
         dialog.open();
         controller.load(dialog.getFileName());
         SeeTable view = new SeeTable();
-        view.seeTable(tableView, pageControl.getPage(), controller.getTable(),pagesLabel);
+        view.seeTable(tableView, pageControl, controller.getPageOfTable(pageControl.getPage()),pagesLabel);
     }
 }

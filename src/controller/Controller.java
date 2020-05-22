@@ -22,6 +22,11 @@ import java.util.List;
 public class Controller {
     private List<PatientReport> table=new ArrayList<>(0);
 
+
+    public void clear()
+    {
+     table.clear();
+    }
     public List<PatientReport> findNoteByTeacherSurname(String patientSurname, List<PatientReport> findingVector)
     {
         List<PatientReport> needToFind=new ArrayList<>(0);
@@ -32,6 +37,11 @@ public class Controller {
                 needToFind.add(findingVector.get(i));
         }
         return needToFind;
+    }
+
+    public List<PatientReport> getTable()
+    {
+        return table;
     }
 
     public List<PatientReport> findNoteByTeacherName(String patientSurname, List<PatientReport> findingVector)
@@ -226,8 +236,15 @@ public class Controller {
         table.add(item);
     }
 
-    public List<PatientReport> getTable()
+    public List<PatientReport> getPageOfTable(int pageNumber)
     {
-        return table;
+        List<PatientReport> tablePage=new ArrayList<>(0);
+
+        for(int i=0;i<10;i++)
+        {
+            if(table.size()-10*pageNumber>i)
+            tablePage.add(table.get(i+10*pageNumber));
+        }
+        return tablePage;
     }
 }

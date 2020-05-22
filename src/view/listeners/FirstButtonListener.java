@@ -24,9 +24,7 @@ public class FirstButtonListener extends SelectionAdapter
     public void widgetSelected(SelectionEvent event1) {
         pageControl.firsPage();
         SeeTable view = new SeeTable();
-        view.seeTable(tableView, pageControl.getPage(), controller.getTable(),pagesLabel);
-
-
+        view.seeTable(tableView, pageControl, controller.getPageOfTable(pageControl.getPage()),pagesLabel);
     }
 
 }
